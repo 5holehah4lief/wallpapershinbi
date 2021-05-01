@@ -1,9 +1,9 @@
 {
   "Ads": [
   {
-    "select_ads": "admoby",
+    "select_ads": "ADMOB",
     "status_app": "0",
-    "link_redirect": "https://",
+    "link_redirect": "https://play.google.com/store/apps/details?id=com.harikookanglim.mystickerwhatsapp",
     "admob_interid": "ca-app-pub-3940256099942544/1033173712",
     "admob_bannerid": "ca-app-pub-3940256099942544/2247696110",
     "admob_openid": "ca-app-pub-3940256099942544/1033173712",
@@ -13,28 +13,28 @@
     "fan_banner": "612492376332507_612492762999135",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "packagename": "com.aliendroid.alienguide"
+    "packagename": "com.harikookanglim.shinbiwallpaper"
   }
 ],
   "More":
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"SHINBI RESCUE",
+      "image":"https://1.bp.blogspot.com/-WPIFB_oAs4M/YGlbjAj8KwI/AAAAAAAAAcc/DcmXM19sNX45g8hlG7A2HOoySl4VLbBKwCLcBGAsYHQ/s320/512.png",
+      "link":"https://play.google.com/store/apps/details?id=com.shibihouseresque.apartement"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"SHINBI PAIRS",
+      "image":"https://1.bp.blogspot.com/-HCF6uLagVjE/YGlbP6Bn-1I/AAAAAAAAAcM/xK2ny4z3XagPFBlWKRa_RjcWVcpoPToKQCLcBGAsYHQ/s320/512.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.shinbipairsharikoo.matches"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"SHINBI BLOCK PUZLE",
+      "image":"https://1.bp.blogspot.com/-uG_B_nYFhOs/YGlbEOk_cII/AAAAAAAAAcE/v9WhCPX6h_o_aj0iPBrS8cHsXLWyiIDmACLcBGAsYHQ/s320/icon512%2Bcopy.png",
+      "link":"https://play.google.com/store/apps/details?id=com.shinbihouseapartment.monsterpuzzlegame"
     }
   ]
 }
