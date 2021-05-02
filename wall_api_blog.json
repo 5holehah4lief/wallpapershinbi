@@ -4,7 +4,7 @@
     "select_ads": "ADMOB",
     "status_app": "0",
     "link_redirect": "https://play.google.com/store/apps/details?id=com.harikookanglim.mystickerwhatsapp",
-    "admob_interid": "ca-app-pub-84663ca-app-pub-3940256099942544/103317371236975948912/7979746348",
+    "admob_interid": "ca-app-pub-8466336975948912/7979746348",
     "admob_bannerid": "ca-app-pub-8466336975948912/8746033103",
     "admob_openid": "ca-app-pub-8466336975948912/2535847972",
     "interval_intertitial": 5,
