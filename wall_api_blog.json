@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-    "select_ads": "STARTAPP",
+    "select_ads": "ADMOB",
     "status_app": "0",
     "link_redirect": "https://play.google.com/store/apps/details?id=com.harikookanglim.mystickerwhatsapp",
     "admob_interid": "ca-app-pub-8466336975948912/7979746348",
